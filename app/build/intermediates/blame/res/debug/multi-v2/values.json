@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Desktop\\Lambort\\HelloEEG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\Desktop\\Lambort\\HelloEEG\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,6,7,8,9,5,4,2",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "120,301,378,460,535,229,166,55",
+                        "endColumns": "45,76,81,74,79,71,62,64",
+                        "endOffsets": "161,373,455,530,610,296,224,115"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,178,260,335,415,487,550",
+                        "endColumns": "45,76,81,74,79,71,62,64",
+                        "endOffsets": "96,173,255,330,410,482,545,610"
+                    }
+                }
+            ]
+        }
+    ]
+}

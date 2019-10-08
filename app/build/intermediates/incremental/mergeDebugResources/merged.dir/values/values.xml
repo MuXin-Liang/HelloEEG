@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloEEG</string>
+    <string name="auto_file_name">AUTO-RAWDATA:%3d_%2d_%2d_%2d:%10d</string>
+    <string name="auto_file_name2">AUTO-RAWDATA:%3d_%2d_%2d_%2d_%3d:%10d</string>
+    <string name="end_file_name">END-RAWDATA:%3d_%2d_%2d_%2d:%10d</string>
+    <string name="end_file_name2">END-RAWDATA:%3d_%2d_%2d_%2d_%3d:%10d</string>
+    <string name="file_name2">RAWDATA:%3d_%2d_%2d_%2d_%3d:%10d</string>
+    <string name="filename">:%3d_%2d_%2d_%2d_%3d:%10d</string>
+    <string name="hello">Hello World, HelloEEGActivity!</string>
+</resources>

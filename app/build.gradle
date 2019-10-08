@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 10
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.test.helloeeg"
+        minSdkVersion 10
+        targetSdkVersion 10
+    }
+    lintOptions {
+
+        checkReleaseBuilds false
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation files('libs/ThinkGearBase.jar')
+    implementation files('libs/ThinkGearPackX.jar')
+}
